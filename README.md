@@ -1,6 +1,7 @@
 # tcp-speed-test
-### Test your network's TCP speed on your local machine
-### It is reqired Python 3 to run this script
+Test your network's TCP speed on your local machine
+
+It is reqired Python 3 to run this script
 
 ## Usage
 
