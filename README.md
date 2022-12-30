@@ -1,2 +1,3 @@
 # tcp-speed-test
-TCP speed tester 
+### Test your network's TCP speed on your local machine
+
