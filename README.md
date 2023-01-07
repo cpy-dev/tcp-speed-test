@@ -1,5 +1,5 @@
 # tcp-speed-test
-Test your network's TCP speed on your local machine
+Test private network speed on your local machine using TCP protocol
 
 It is reqired Python 3 to run this script
 
@@ -17,4 +17,4 @@ Then execute normally
 
 
 ## DISCLAIMER
-This tool tests TCP on local machine, so the resultant speed depends on both your network's and devices's capabilities
+This tool tests speed on local machine, so the resultant speed depends on both your network's and devices's capabilities
