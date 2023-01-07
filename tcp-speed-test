@@ -121,4 +121,4 @@ if __name__ == '__main__':
 
     upload = f'\033[92m {str(upload)[0:7]}' if upload is not None else '\033[91m null'
     download = f'\033[92m {str(download)[0:7]}' if download is not None else '\033[91m null'
-    print(f'Local machine TCP speed:\n    upload   -> {upload} kBps\033[00m \n    download -> {download} kBps \033[00m')
+    print(f'Private network speed (TCP):\n    upload   -> {upload} kBps\033[00m \n    download -> {download} kBps \033[00m')
