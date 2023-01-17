@@ -15,6 +15,9 @@ Then execute normally
 
 	$ ./tcp-speed-test
 
+If you want, you can build a compiled executable for your machine following the procedure:
+	
+	$ python3 -m pip install pyinstaller && pyinstaller --onefile tcp-speed-test && mv ./dist/tcp-speed-test . && rm -rf build dist tcp-speed-test.spec
 
 ## DISCLAIMER
 This tool tests speed on local machine, so the resultant speed depends on both your network's and devices's capabilities
